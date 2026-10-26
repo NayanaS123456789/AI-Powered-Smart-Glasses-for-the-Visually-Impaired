@@ -84,6 +84,9 @@ The control system can be configured to trigger specific modules, such as:
 - Human activity or pose recognition
 
 The exact switch mapping depends on the implemented hardware configuration.
+<img width="1334" height="521" alt="image" src="https://github.com/user-attachments/assets/b8214577-f28f-47d5-99f0-683ae2b0741a" />
+<img width="1280" height="652" alt="image" src="https://github.com/user-attachments/assets/52337996-0448-4432-ba94-f5b7d78b0b26" />
+<img width="1334" height="581" alt="image" src="https://github.com/user-attachments/assets/18526c1c-9a5b-42fa-b4a5-e26adbf81505" />
 
 ## 🏗️ System Architecture
 
